@@ -1,0 +1,23 @@
+#                                                                              #
+# maps/valid.cub                                                               #
+# mpuig-ma <mpuig-ma@student.42barcelona.com>                                  #
+# Fri Oct 13 10:52:25 2023                                                     #
+
+NO	greystone
+EA	wood
+WE	pillar
+SO	barrel
+F	4,4, 90
+#	comment here
+C	255,0,0	
+#	comment there
+
+
+
+
+#	MAP
+1111111
+1000001
+1000011
+1000N1
+111111
